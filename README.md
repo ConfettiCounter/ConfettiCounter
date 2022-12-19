@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ConfettiCounter
 - 👀 I’m interested various project.
-- 🌱 I’m currently currnetly building a drone.
+- 🌱 I’m currently building a drone.
 - 💞️ I’m looking to collaborate on FrSky Ethos X 20, with TD R10 and Pixhawk 6C.
 
 
